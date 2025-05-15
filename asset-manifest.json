@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ecotrip-cr/static/css/main.f855e6bc.css",
+    "main.js": "/ecotrip-cr/static/js/main.d3e452a9.js",
+    "static/js/453.2efc87ec.chunk.js": "/ecotrip-cr/static/js/453.2efc87ec.chunk.js",
+    "static/media/logo.svg": "/ecotrip-cr/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ecotrip-cr/index.html",
+    "main.f855e6bc.css.map": "/ecotrip-cr/static/css/main.f855e6bc.css.map",
+    "main.d3e452a9.js.map": "/ecotrip-cr/static/js/main.d3e452a9.js.map",
+    "453.2efc87ec.chunk.js.map": "/ecotrip-cr/static/js/453.2efc87ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.d3e452a9.js"
+  ]
+}
