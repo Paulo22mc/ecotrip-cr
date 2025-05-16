@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ecotrip-cr/static/css/main.5693122e.css",
-    "main.js": "/ecotrip-cr/static/js/main.08b7b561.js",
+    "main.js": "/ecotrip-cr/static/js/main.06218e5f.js",
     "static/media/volcanPoas.jpg": "/ecotrip-cr/static/media/volcanPoas.a9c530d4b2159f289f71.jpg",
     "static/media/monteverde.jpg": "/ecotrip-cr/static/media/monteverde.26f87aef86efa345d58d.jpg",
     "static/media/playa.jpg": "/ecotrip-cr/static/media/playa.c16bd906ff303cff74c0.jpg",
@@ -22,10 +22,10 @@
     "static/media/fa-v4compatibility.woff2": "/ecotrip-cr/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "index.html": "/ecotrip-cr/index.html",
     "main.5693122e.css.map": "/ecotrip-cr/static/css/main.5693122e.css.map",
-    "main.08b7b561.js.map": "/ecotrip-cr/static/js/main.08b7b561.js.map"
+    "main.06218e5f.js.map": "/ecotrip-cr/static/js/main.06218e5f.js.map"
   },
   "entrypoints": [
     "static/css/main.5693122e.css",
-    "static/js/main.08b7b561.js"
+    "static/js/main.06218e5f.js"
   ]
 }
