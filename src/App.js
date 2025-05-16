@@ -13,8 +13,8 @@ import Contact from './components/ContactSection';
 
 function App() {
   return (
-    <LanguageProvider> {/* Envuelve toda tu aplicación con el Provider */}
-      <Router>
+    <LanguageProvider>
+      <Router basename="/ecotrip-cr">
         <div className="d-flex flex-column min-vh-100">
           <TourismNavbar />
           <Routes>
